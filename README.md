@@ -1,40 +1,111 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# 🎮 Minecraft Server Status Checker
 
-First, run the development server:
+[Live Demo](http://mc-status.abhiyanpa.in) | [Report Bug](https://github.com/abhiyanpa/mcstatus/issues) | [Request Feature](https://github.com/abhiyanpa/mcstatus/issues)
+
+![Minecraft Server Status](public/og-image.png)
+
+A modern, fast, and beautiful Minecraft server status checker for both Java and Bedrock editions.
+
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel)](http://mc-status.abhiyanpa.in)
+
+</div>
+
+## ✨ Features
+
+- **🚀 Real-time Status**: Get instant server status updates
+- **🌐 Multi-Edition Support**: Works with both Java and Bedrock servers
+- **💫 Modern UI**: Clean and responsive design
+- **🎨 MOTD Support**: View server MOTDs with original colors and formatting
+- **📊 Detailed Info**: Shows player count, version, ping, and more
+- **🔄 Quick Toggle**: Easily switch between Java and Bedrock servers
+- **📱 Mobile Friendly**: Works perfectly on all devices
+
+## 🎯 Quick Start
+
+Check any Minecraft server status:
+1. Visit [mc-status.abhiyanpa.in](http://mc-status.abhiyanpa.in)
+2. Enter your server address
+3. Select Java or Bedrock edition
+4. Click "Get Status"
+
+## 🛠️ Development
+
+Want to run it locally?
 
 ```bash
+# Clone the repository
+git clone https://github.com/abhiyanpa/mcstatus.git
+
+# Navigate to the directory
+cd mcstatus
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌟 Popular Servers to Try
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Java Edition:
+  - `indianmc.in`
+  - `mc.hypixel.net`
+  - `play.cubecraft.net`
 
-## Learn More
+- Bedrock Edition:
+  - `play.nethergames.org`
+  - `mco.cubecraft.net`
+  - `play.inpvp.net`
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js 14](https://nextjs.org/) - React Framework
+- [TypeScript](https://www.typescriptlang.org/) - Type Safety
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [Lucide Icons](https://lucide.dev/) - Beautiful Icons
+- [MC Server Status API](https://api.mcsrvstat.us/) - Server Status API
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 Environment Variables
 
-## Deploy on Vercel
+No environment variables are required to run this project.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-f
->>>>>>> 0a8eb76b7a7f69c54ac3ad945bbd03b3871cdc26
+Contributions are welcome! Feel free to:
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 👨‍💻 Author
+
+**Abhiyan P A**
+- Website: [abhiyanpa.in](https://abhiyanpa.in)
+- GitHub: [@abhiyanpa](https://github.com/abhiyanpa)
+
+## 🙏 Acknowledgments
+
+- [mcsrvstat.us](https://mcsrvstat.us/) for providing the server status API
+- Minecraft® is a registered trademark of Mojang AB
+
+<div align="center">
+
+Made with ❤️ by [Abhiyan P A](https://abhiyanpa.in)
+
+⭐ Star this project if you find it useful!
+
+</div>
