@@ -4,7 +4,8 @@
 
 [Live Demo](http://mc-status.abhiyanpa.in) | [Report Bug](https://github.com/abhiyanpa/mcstatus/issues) | [Request Feature](https://github.com/abhiyanpa/mcstatus/issues)
 
-![Minecraft Server Status](public/og-image.png)
+![Minecraft Server Status](<img width="960" alt="{57B810DA-F1DC-4B59-A83D-3365B7853E2A}" src="https://github.com/user-attachments/assets/17a1d067-4484-4837-ad8d-7a7ffde56a5d">
+)
 
 A modern, fast, and beautiful Minecraft server status checker for both Java and Bedrock editions.
 
